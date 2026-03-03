@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "あのさ",
+  "base_artist": "berry meet",
+  "createdAt": "2026-03-03T15:15:36.674424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あのさ、いや別に…",
+      "artist": "NGT48",
+      "has_synced": true,
+      "path": "select/01_あのさ、いや別に..._NGT48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あのさ",
+      "artist": "Hemenway",
+      "has_synced": true,
+      "path": "select/02_あのさ_Hemenway.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トラック4_あのさ、この前の作品で出してた声で喘いでよ（効果音無し）",
+      "artist": "ありがた屋",
+      "has_synced": true,
+      "path": "select/03_トラック4_あのさ、この前の作品で出してた声で喘いでよ(効果音無し)_ありがた屋.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あのさ、あのね",
+      "artist": "コアラモード．",
+      "has_synced": true,
+      "path": "select/04_あのさ、あのね_コアラモード..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あのさ、あのね",
+      "artist": "コアラモード.",
+      "has_synced": true,
+      "path": "select/05_あのさ、あのね_コアラモード..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あのさ",
+      "artist": "berry meet",
+      "has_synced": false,
+      "path": "select/pl_01_あのさ_berry_meet.txt"
+    }
+  ]
+}
